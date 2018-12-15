@@ -1,5 +1,5 @@
 # sistema-matricula-php
-Desenvolvi essa pequena aplicação como exercício de aprendizagem, um CRUD completo. Foi desenvolvida com php e banco de dados mysql. Essa aplicação ira servir também para fazer uma comparação técnica com o mesmo sistema desenvolvido com node.js e JavaScript.
+Desenvolvi essa pequena aplicação como exercício de aprendizagem, um CRUD completo. Foi desenvolvida com php e banco de dados mysql. <b>Essa aplicação ira servir também para fazer uma comparação técnica com o mesmo sistema desenvolvido com node.js e JavaScript.</b>
 <h3>Poderam ocorrer atualizações futuras.</h3>
 <h2>Sistema</h2>
 <ul>
